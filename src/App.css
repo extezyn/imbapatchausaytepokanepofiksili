@@ -1,0 +1,56 @@
+  html, body, #root {
+  height: 100%;
+  margin: 0;
+  overflow-y: scroll;
+  }
+
+  @font-face {
+  font-family: Helvetica;
+  src: url("../Font/Helvetica\ Neue\ Medium\ Extended.otf");
+  }
+
+  @font-face {
+  font-family: Helvetica Wei;
+  src: url("../Font/Helvetica\ Neue\ LTW0697BlkCnObl.otf");
+  }
+
+  @font-face {
+  font-family: Helvetica Light;
+  src: url("../Font/Helvetica\ Neue\ UltraLight.otf");
+  }
+
+  body {
+  font-family: Helvetica;
+  background-color: #000000;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  }
+
+  p {
+  font-family: Helvetica Wei;
+  margin: 1rem;
+  color: #ffffff;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+  font-family: Helvetica;
+  margin-bottom: 1rem;
+  color: #ffffff;
+  }
+
+  .container {
+  flex: 1;
+  }
+
+  button {
+  font-family: Helvetica Light;
+  font-weight: 900;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #000000;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  }

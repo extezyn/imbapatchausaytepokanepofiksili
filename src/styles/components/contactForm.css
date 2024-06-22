@@ -1,0 +1,134 @@
+@media screen and (min-device-width: 1441px) and
+(max-device-width: 2560px){
+.contact-form {
+  text-align: center;
+  width: 600px;
+  height: 82vh;
+  margin: auto;
+  padding: 2.5%;
+  }
+  
+  .contact-form input, .contact-form textarea {
+    background-color: #000;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 1rem;
+    
+  }
+
+  .contact-form button{
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  } 
+}
+
+@media screen and (min-device-width: 1024px) and
+(max-device-width: 1440px){
+.contact-form {
+  text-align: center;
+  width: 600px;
+  height: 82vh;
+  margin: auto;
+  padding: 2.5%;
+  }
+  
+  .contact-form input, .contact-form textarea {
+    background-color: #000;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 1rem;
+    
+  }
+
+  .contact-form button{
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  } 
+}
+
+@media screen and (min-device-width: 769px) and
+(max-device-width: 1023px){
+.contact-form {
+  text-align: center;
+  width: auto;
+  height: 82vh;
+  margin: auto;
+  padding: 2.5%;
+  }
+  
+  .contact-form input, .contact-form textarea {
+    background-color: #000;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 1rem;
+    
+  }
+
+  .contact-form button{
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  } 
+}
+
+@media screen and (min-device-width: 426px) and
+(max-device-width: 768px){
+.contact-form {
+  text-align: center;
+  width: auto;
+  height: 82vh;
+  margin: auto;
+  padding: 2.5%;
+  }
+  
+  .contact-form input, .contact-form textarea {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 1rem;
+    
+  }
+
+  .contact-form button{
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  } 
+}
+
+@media screen and
+(max-device-width: 425px){
+.contact-form {
+  text-align: center;
+  width: auto;
+  height: 82vh;
+  margin: auto;
+  padding: 2.5%;
+  }
+  
+  .contact-form input, .contact-form textarea {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 1rem;
+    
+  }
+
+  .contact-form button{
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  } 
+}

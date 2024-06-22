@@ -1,0 +1,154 @@
+@media screen and (min-device-width: 1441px) and
+(max-device-width: 2560px){
+.order-page {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 82vh;
+    padding: 2.5%;
+  }
+  
+  .order-page form, .order-page input , .order-page select{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 1rem;
+  }
+  
+  .order-page button{
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  }
+
+  button:disabled {
+    opacity: 0.6; 
+    cursor: not-allowed;
+  }
+}
+
+@media screen and (min-device-width: 1024px) and
+(max-device-width: 1440px){
+.order-page {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 82vh;
+    padding: 2.5%;
+  }
+  
+  .order-page form, .order-page input , .order-page select{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 1rem;
+  }
+  
+  .order-page button{
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  }
+
+  button:disabled {
+    opacity: 0.6; 
+    cursor: not-allowed;
+  }
+}
+
+@media screen and (min-device-width: 769px) and
+(max-device-width: 1023px){
+.order-page {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 82vh;
+    padding: 2.5%;
+  }
+  
+  .order-page form, .order-page input , .order-page select{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 1rem;
+  }
+  
+  .order-page button{
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  }
+
+  button:disabled {
+    opacity: 0.6; 
+    cursor: not-allowed;
+  }
+}
+
+@media screen and (min-device-width: 426px) and
+(max-device-width: 768px){
+.order-page {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 82vh;
+    padding: 2.5%;
+  }
+  
+  .order-page form, .order-page input , .order-page select{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 1rem;
+  }
+  
+  .order-page button{
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  }
+
+  button:disabled {
+    opacity: 0.6; 
+    cursor: not-allowed;
+  }
+}
+
+@media screen and
+(max-device-width: 425px){
+.order-page {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 82vh;
+    padding: 2.5%;
+  }
+  
+  .order-page form, .order-page input , .order-page select{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 1rem;
+  }
+  
+  .order-page button{
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  }
+
+  button:disabled {
+    opacity: 0.6; 
+    cursor: not-allowed;
+  }
+}

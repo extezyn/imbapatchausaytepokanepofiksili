@@ -1,0 +1,12 @@
+.home-page {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .home-page .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  

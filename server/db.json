@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Модная кофтейка",
+      "category": [
+        "MEN"
+      ],
+      "price": 5999,
+      "image": "/images/1.jpg",
+      "description": "круто класно"
+    },
+    {
+      "id": "2",
+      "name": "Шарф рассвет",
+      "category": [
+        "ACCESSORIES",
+        "MEN"
+      ],
+      "price": 3500,
+      "image": "/images/2.jpg",
+      "description": "Мясо полное"
+    },
+    {
+      "id": "3",
+      "name": "Футболка нации",
+      "category": [
+        "MEN"
+      ],
+      "price": 2999,
+      "image": "/images/3.jpg",
+      "description": "Союзик"
+    },
+    {
+      "id": "4",
+      "name": "Гавнодавы мясные",
+      "category": [
+        "SHOES",
+        "MEN"
+      ],
+      "price": 6666,
+      "image": "/images/4.jpg",
+      "description": "Made in China"
+    },
+    {
+      "id": "5",
+      "name": "Рваное пальто",
+      "category": [
+        "MEN"
+      ],
+      "price": 3599,
+      "image": "/images/5.jpg",
+      "description": "Модняво"
+    },
+    {
+      "id": "6",
+      "name": "Руссий ренесанс",
+      "category": [
+        "MEN",
+        "NEW"
+      ],
+      "price": 1999,
+      "image": "/images/6.jpg",
+      "description": "вот вам бабка и русский ренесанс"
+    },
+    {
+      "id": "7",
+      "name": "Блатные тяги",
+      "category": [
+        "MEN",
+        "NEW",
+        "SHOES"
+      ],
+      "price": 3500,
+      "image": "/images/7.jpg",
+      "description": "3500 3500 3500 3500 3500 3500 3500 3500 3500 3500 3500 3500 3500"
+    },
+    {
+      "id": "8",
+      "name": "ремень",
+      "category": [
+        "WOMEN",
+        "ACCESSORIES"
+      ],
+      "price": 299,
+      "image": "/images/8.jpg",
+      "description": "Дави адидас"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "1",
+      "name": "Модная кофтейка",
+      "category": [
+        "MEN"
+      ],
+      "price": 5999,
+      "image": "/images/1.jpg",
+      "description": "круто класно"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "name": "Модная кофтейка",
+      "category": [
+        "MEN"
+      ],
+      "price": 5999,
+      "image": "/images/1.jpg",
+      "description": "круто класно"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.catalog-page {
+    text-align: center;
+  }
+  
+  .catalog-page .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  

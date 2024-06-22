@@ -1,0 +1,231 @@
+@font-face {
+  font-family: Helvetica;
+  src: url("../../Font/Helvetica\ Neue\ Medium\ Extended.otf");
+}
+
+@font-face {
+  font-family: Helvetica Wei;
+  src: url("../../Font/Helvetica\ Neue\ LTW0697BlkCnObl.otf");
+}
+
+@font-face {
+  font-family: Helvetica Light;
+  src: url("../../Font/Helvetica\ Neue\ UltraLight.otf");
+}
+
+@font-face {
+  font-family: Helvetica Light;
+  src: url("../../Font/Helvetica\ Neue\ UltraLight.otf");
+}
+
+@media screen and (min-device-width: 1441px) and
+(max-device-width: 2560px){
+.product-card {
+  background-color: #fff;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    width: 35rem;
+    text-align: center;
+    margin-bottom: 0.8rem;
+  }
+  
+  .product-card img {
+    max-width: 65%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  
+  .special-card {
+    padding-top: 7%;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: center;
+    background-color: #000;
+  }
+
+  .product-card h3 {
+    height: 10dvh;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0.5rem;
+  }
+  
+  .product-card p {
+    font-size: 25px;
+    font-family: Helvetica Wei, sans-serif;
+    margin-bottom: 1rem;
+  }
+  
+  .product-card button {
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  }
+  
+  .contact-button{
+    width: auto;
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    margin: 2dvh;
+}
+
+  
+}
+
+@media screen and (min-device-width: 1024px) and
+(max-device-width: 1440px){
+.product-card {
+    background-color: #fff;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    width: 35rem;
+    text-align: center;
+    margin-bottom: 0.5rem;
+  }
+  
+  .product-card img {
+    max-width: 65%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  
+  .special-card {
+    padding-top: 8%;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: center;
+    background-color: #fff;
+  }
+
+  .product-card h3 {
+    height: 10dvh;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0.5rem;
+  }
+  
+  .product-card p {
+    font-size: 25px;
+    font-family: Helvetica Wei, sans-serif;
+    margin-bottom: 1rem;
+  }
+  
+  .product-card button {
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  }
+  
+  .contact-button{
+    width: auto;
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    margin: 2dvh;
+}
+
+  
+}
+ 
+@media screen and (min-device-width: 769px) and
+(max-device-width: 1023px){
+.product-card {
+    background-color: #fff;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    width: auto;
+    text-align: center;
+    margin-bottom: 0.8rem;
+  }
+  
+  .product-card img {
+    max-width: 65%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  
+  .special-card {
+    padding-top: 7%;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: center;
+    background-color: #fff;
+  }
+
+  .product-card h3 {
+    height: 10dvh;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0.5rem;
+  }
+  
+  .product-card p {
+    font-size: 25px;
+    font-family: Helvetica Wei, sans-serif;
+    margin-bottom: 1rem;
+  }
+  
+  .product-card button {
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  }
+  
+  .contact-button{
+    width: auto;
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    margin: 2dvh;
+}
+}
+
+@media screen and 
+(max-device-width: 768px){
+.product-card {
+    background-color: #fff;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    width: auto;
+    text-align: center;
+    margin-bottom: 0.8rem;
+  }
+  
+  .product-card img {
+    max-width: 65%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  
+  .special-card {
+    padding-top: 7%;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: center;
+    background-color: #fff;
+  }
+
+  .product-card h3 {
+    height: 10dvh;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0.5rem;
+  }
+  
+  .product-card p {
+    font-size: 25px;
+    font-family: Helvetica Wei, sans-serif;
+    margin-bottom: 1rem;
+  }
+  
+  .product-card button {
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    width: 17%;
+    margin: 2dvh;
+  }
+  
+  .contact-button{
+    width: auto;
+    font-family: Helvetica Light, sans-serif;
+    font-weight: 900;
+    margin: 2dvh;
+}
+}

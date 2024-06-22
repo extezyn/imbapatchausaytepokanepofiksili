@@ -1,0 +1,17 @@
+.favorites-page {
+    text-align: center;
+    margin-top: 20px;
+    height: 82vh;
+  }
+  
+  .favorites-page .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .empty{
+    color: #696969;
+    font-size: 300px;
+  }
+  

@@ -1,0 +1,27 @@
+.category-filter {
+  margin-bottom: 1rem;
+}
+
+.all-button {
+  background-color: #fff;
+  color: #000;
+}
+
+.abutton {
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #000;
+  padding: 0.5rem 1rem;
+  margin: 0.25rem;
+  cursor: pointer;
+}
+
+.all-button:hover {
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #000;
+}
+
+.abutton:hover {
+  background-color: #757575;
+}
